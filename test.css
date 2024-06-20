@@ -2,3 +2,14 @@
     background-color: aqua;
     color: blanchedalmond;
 }
+
+.form_style{
+    border: 2px;
+    background-color: blueviolet;
+    border-radius: 20px;
+}
+
+.form_style li {
+    list-style: none;
+}
+
